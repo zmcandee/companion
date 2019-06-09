@@ -63,6 +63,7 @@
   "author": "Bitfocus AS",
   "license": "MIT",
   "devDependencies": {
+    "dev-runner": "^0.0.3",
     "electron": "5.0.2",
     "electron-builder": "20.43.0",
     "node-abi": "2.8.0",
@@ -79,6 +80,7 @@
     "check-ip": "^1.1.1",
     "debug": "^4.1.1",
     "electron-debug": "^1.5.0",
+    "electron-rpc-server": "^1.1.0",
     "elgato-stream-deck-clean": "^1.0.1",
     "elgato-stream-deck-clean-mini": "^1.0.1",
     "elgato-stream-deck-clean-xl": "1.0.8",
